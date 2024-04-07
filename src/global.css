@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Noi Grotesk';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''), url('/fonts/noi-grotesk/NoiGroteskTrial-Regular.otf');
+}
+
+@font-face {
+  font-family: 'Noi Grotesk';
+  font-style: normal;
+  font-weight: 600;
+  src: local(''), url('/fonts/noi-grotesk/NoiGroteskTrial-Bold.otf');
+}
